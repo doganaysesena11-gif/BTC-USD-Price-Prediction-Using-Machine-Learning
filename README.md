@@ -66,5 +66,5 @@ The generated visualizations help interpret long-term movements and potential fu
 
 This project is for educational and research purposes only.
 It does not constitute financial or investment advice.
-   git clone https://github.com/doganaysesena11-gif/BTC-USD-Price-Prediction-Using-Machine-Learning.git
+  
 
