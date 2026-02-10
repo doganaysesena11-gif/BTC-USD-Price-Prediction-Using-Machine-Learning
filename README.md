@@ -53,7 +53,7 @@ The dataset is automatically downloaded and does not require manual CSV files.
 
 ---
 
-##Results
+## Results
 
 The model produces future BTC-USD price forecasts based on historical trends.
 Prophet decomposes the time series into:
@@ -62,7 +62,7 @@ Prophet decomposes the time series into:
 -Residual components
 The generated visualizations help interpret long-term movements and potential future behavior of Bitcoin prices.
 
-##Disclaimer
+## Disclaimer
 
 This project is for educational and research purposes only.
 It does not constitute financial or investment advice.
